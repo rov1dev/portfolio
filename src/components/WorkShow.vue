@@ -61,4 +61,10 @@ const data = ref([
 ])
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+
+#work{
+  padding: 80px 0;
+  background: #f5f4ff;
+}
+</style>
