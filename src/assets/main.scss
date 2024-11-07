@@ -5,6 +5,10 @@
     font-family: 'Manrope', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .router-link-active.router-link-exact-active {
     color: green;
     text-decoration: none;

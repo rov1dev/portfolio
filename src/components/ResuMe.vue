@@ -1,6 +1,6 @@
 <template>
   <section id="resume">
-    <img class="res-img" width="250px" height="250px" src="../assets/ava2.jpg" alt="" />
+    <img class="res-img" width="250px" height="250px" src="../assets/ava.jpg" alt="" />
     <h2 class="gradient-text">Hi, I'm Elshod</h2>
     <p class="res-txt">
       I'm a 18 years old working as a frontend developer with 2+ years experience building intuitive
