@@ -3,7 +3,7 @@
     <img class="res-img" width="250px" height="250px" src="../assets/ava.jpg" alt="" />
     <h2 class="gradient-text">Hi, I'm Elshod</h2>
     <p class="res-txt">
-      I'm a 18 years old working as a frontend developer with 2+ years experience building intuitive
+      I'm 18 years old working as a frontend developer with 2+ years experience building intuitive
       websites for companies and businesses that want to reach more result
     </p>
     <div class="social">
