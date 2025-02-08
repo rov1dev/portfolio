@@ -17,20 +17,20 @@ import { ref } from 'vue'
 
 const datas = ref([
   {
-    link: 'https://vanilla-js-store.netlify.app/',
-    name: 'Comfy store'
+    link: 'https://as-saboq.netlify.app/',
+    name: 'Assaboq uz'
   },
   {
-    link: 'https://vanilla-js-basic-project-8-menu.netlify.app/',
-    name: 'Our menu'
+    link: 'https://web-player.netlify.app/',
+    name: 'Web Player'
   },
   {
-    link: 'https://vannilla-js-basic-project-20-filters.netlify.app/',
-    name: 'Filters'
+    link: 'https://aprcot.netlify.app/',
+    name: 'Aprycot'
   },
   {
-    link: 'https://vannilla-js-basic-project-22-products.netlify.app/',
-    name: 'Products'
+    link: 'https://workhub-liard.vercel.app/',
+    name: 'Workhub co-working'
   }
 ])
 </script>
